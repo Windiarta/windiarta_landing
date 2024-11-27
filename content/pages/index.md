@@ -218,7 +218,7 @@ sections:
     type: ImageGallerySection
 seo:
   metaTitle: Windiarta
-  metaDescription: Windiarta's Landing Page
+  metaDescription: ''
   socialImage: /images/bg.png
   type: Seo
   addTitleSuffix: false
