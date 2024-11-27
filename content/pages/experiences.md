@@ -27,9 +27,13 @@ sections:
         styles:
           self:
             flexDirection: row
-        text: |+
-          ##### Jr. Technician Data Science (Data Engineer)
-
+        text: >
+          As a Data Engineer, I specialize in building robust ETL and ELT
+          pipelines, designing APIs that seamlessly connect systems, and
+          crafting data-driven models to solve complex business challenges.
+          Recently, I've also been exploring the transformative potential of
+          generative AI to unlock new opportunities and insights. Let’s connect
+          and discuss how data and AI can shape the future!
         tagline: Sept 2024 - Present
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
