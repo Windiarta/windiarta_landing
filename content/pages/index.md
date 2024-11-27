@@ -69,7 +69,7 @@ sections:
     subtitle: Top 3 tools that I used for projects
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Database
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
