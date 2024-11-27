@@ -101,8 +101,8 @@ sections:
         subtitle: ''
         text: >
           Skilled in creating **RESTful APIs** for **Data Analytic** by
-          integrating **Traditional** and **Generative AI**, and integrating
-          **microservices** using modern frameworks.
+          integrating **Traditional** and **Generative AI**, including **Chat
+          bots**.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
