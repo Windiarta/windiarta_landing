@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      #### a **Data Engineer** and **FullStack** Developer
+      #### **Data Engineer** and **Full Stack** Developer
 
 
       An Anthusiast of developing in newest technology, Passionate in Data,
