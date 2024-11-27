@@ -224,5 +224,5 @@ seo:
   addTitleSuffix: false
   metaTags: []
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
