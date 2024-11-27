@@ -46,10 +46,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-0
-            - ml-0
-            - mb-0
-            - mr-0
+            - mt-10
+            - ml-10
+            - mb-10
+            - mr-10
     badge:
       label: Hello!! I'm
       color: text-primary
