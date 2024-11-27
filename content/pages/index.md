@@ -15,15 +15,6 @@ sections:
       An Anthusiast of developing in newest technology, Passionate in Data,
       Machine Learning, Generative AI, Mobile development, and Web Development.
     actions:
-      - label: See Blog
-        altText: See Blog
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Button
         label: See Blog
         altText: See Blog
