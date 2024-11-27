@@ -69,7 +69,7 @@ sections:
         fontWeight: 400
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Framework
       color: text-dark
       styles:
         self:
