@@ -74,7 +74,7 @@
         },
         {
             "altText": "Email link",
-            "url": "mailto:windiarta.widjaja@gmail.com?subject=Hi&body=Hi! I found your email from your web, hope we can connect each other!",
+            "url": "mailto:windiarta.widjaja@gmail.com?subject=Hi&body=Hi! I found your email from your web, hope ",
             "icon": "mail",
             "type": "Social"
         }
