@@ -30,7 +30,6 @@ sections:
         text: |
           **Sept 2024 - Present**
 
-
           Jr. Technician Data Science (Data Engineer)
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
