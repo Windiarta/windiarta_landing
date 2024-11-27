@@ -24,6 +24,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/Foto WIn.jpg
       altText: Unblock your team boost your time to production preview
