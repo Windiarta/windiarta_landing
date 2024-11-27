@@ -67,7 +67,7 @@ sections:
           impactful projects.
       - type: FeaturedItem
         title: PT Ghraha Trimitra Selaras
-        tagline: This is the tagline
+        tagline: July 2023 - Present
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
