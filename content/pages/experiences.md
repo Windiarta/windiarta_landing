@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: PT Pupuk Indonesia (Persero)
-        subtitle: '**Hallo**'
+        subtitle: Jr. Technician Data Science (Data Engineer)
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
