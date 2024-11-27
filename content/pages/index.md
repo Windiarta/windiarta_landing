@@ -72,9 +72,9 @@ sections:
         title: Database
         subtitle: ''
         text: >
-          Proficient in architecting and managing RDBMS, and using data from
-          NoSQL, GraphQL, and Vector Database, ensuring high performance and
-          scalability for large datasets
+          Proficient in architecting and managing **RDBMS**, and using data from
+          **NoSQL**, **GraphQL**, and **Vector Database**, ensuring high
+          performance and scalability for large datasets
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
