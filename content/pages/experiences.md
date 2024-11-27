@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Experiences
+title: Windiarta | Experiences
 sections:
   - type: FeaturedItemsSection
     title:
