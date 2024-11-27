@@ -17,33 +17,6 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-        text: >
-          #### **Jr Technician Data Science (Data Engineer)**
-
-
-          As a Data Engineer, I specialize in building robust ETL and ELT
-          pipelines, designing APIs that seamlessly connect systems, and
-          crafting data-driven models to solve complex business challenges.
-          Recently, I've also been exploring the transformative potential of
-          generative AI to unlock new opportunities and insights. Let’s connect
-          and discuss how data and AI can shape the future!
-        tagline: Sept 2024 - Present
-      - type: FeaturedItem
-        title: PT Pupuk Indonesia (Persero)
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
@@ -65,6 +38,33 @@ sections:
           problems. I'm also passionate about leveraging generative AI to drive
           innovation. I'm eager to continue learning and contributing to
           impactful projects.
+      - type: FeaturedItem
+        title: PT Pupuk Indonesia (Persero)
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+        text: >
+          #### **Jr Technician Data Science (Data Engineer)**
+
+
+          As a Data Engineer, I specialize in building robust ETL and ELT
+          pipelines, designing APIs that seamlessly connect systems, and
+          crafting data-driven models to solve complex business challenges.
+          Recently, I've also been exploring the transformative potential of
+          generative AI to unlock new opportunities and insights. Let’s connect
+          and discuss how data and AI can shape the future!
+        tagline: Sept 2024 - Present
     actions: []
     elementId: ''
     variant: small-list
