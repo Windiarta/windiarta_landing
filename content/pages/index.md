@@ -13,7 +13,7 @@ sections:
 
 
       An Anthusiast of developing in newest technology, Passionate in Data,
-      Machine Learning, Generative AI, Mobile development, and Web Development.
+      Machine Learning, Generative AI, Web Development and Mobile development.
     actions:
       - type: Button
         label: See Blog
