@@ -749,7 +749,6 @@ seo:
   socialImage: /images/bg.png
   type: Seo
   addTitleSuffix: false
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 type: PageLayout
 ---
