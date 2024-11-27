@@ -28,10 +28,12 @@ sections:
           self:
             flexDirection: row
         text: |
-          **Sept 2024 - Present**
+          ##### **Sept 2024 - Present**
+
           #### Jr. Technician Data Science (Data Engineer)
 
-          **Sept 2023 - Des 2023**
+          ##### **Sept 2023 - Des 2023**
+
           #### Data Engineer Intern
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
