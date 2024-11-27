@@ -39,7 +39,7 @@ sections:
           and discuss how data and AI can shape the future!
         tagline: Sept 2024 - Present
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: ''
         subtitle: $117
         image:
           type: ImageBlock
