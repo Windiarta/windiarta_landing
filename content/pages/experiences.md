@@ -54,6 +54,7 @@ sections:
         styles:
           self:
             flexDirection: row
+        tagline: Sept 2023 - Des 2023
     actions: []
     elementId: ''
     variant: small-list
