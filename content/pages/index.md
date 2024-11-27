@@ -44,10 +44,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-52
-            - ml-52
-            - mb-52
-            - mr-52
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
     badge:
       label: This is a badge
       color: text-primary
