@@ -748,5 +748,6 @@ seo:
   metaDescription: Windiarta's Landing Page
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
