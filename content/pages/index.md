@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Windiarta
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Windiarta's Landing Page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
