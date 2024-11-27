@@ -66,7 +66,7 @@ sections:
           innovation. I'm eager to continue learning and contributing to
           impactful projects.
       - type: FeaturedItem
-        title: Feature Item One
+        title: PT Ghraha Trimitra Selaras
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
