@@ -100,7 +100,7 @@ sections:
       - type: FeaturedItem
         title: Bangkit Academy
         tagline: Oct 2024 - Present
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
