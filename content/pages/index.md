@@ -217,12 +217,12 @@ sections:
         textAlign: center
     type: ImageGallerySection
 seo:
-  metaTitle: Windiarta
-  metaDescription: Windiarta's Landing Page
+  metaTitle: ''
+  metaDescription: ''
   socialImage: /images/bg.png
   type: Seo
   addTitleSuffix: false
   metaTags: []
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
