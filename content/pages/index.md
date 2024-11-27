@@ -148,7 +148,7 @@ sections:
     actions:
       - label: See More
         altText: ''
-        url: /
+        url: /projects
         showIcon: false
         icon: arrowRight
         iconPosition: right
