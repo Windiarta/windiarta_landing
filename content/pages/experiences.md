@@ -30,7 +30,7 @@ sections:
         text: |+
           ##### Jr. Technician Data Science (Data Engineer)
 
-        tagline: aslkhc
+        tagline: PT Pupuk Indonesia (Persero)
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
