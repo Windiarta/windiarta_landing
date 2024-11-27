@@ -66,7 +66,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Top 3 Skill that I used for projects
+    subtitle: Top 3 tools that I used for projects
     items:
       - type: FeaturedItem
         title: 500k
