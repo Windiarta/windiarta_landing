@@ -71,10 +71,9 @@ sections:
       - type: FeaturedItem
         title: Database
         subtitle: Lorem Ipsum
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem
+          Ipsum 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
