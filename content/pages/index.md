@@ -7,7 +7,7 @@ sections:
       text: Windiarta
       color: text-dark
       type: TitleBlock
-    subtitle: A Fullstack Developer from Indonesia
+    subtitle: ''
     text: >
       # a **Full Stack** Developer from **Indonesia**
 
