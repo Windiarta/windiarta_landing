@@ -49,7 +49,7 @@ sections:
             - mb-36
             - mr-36
     badge:
-      label: This is a badge
+      label: Hello!! I'm
       color: text-primary
       type: Badge
     elementId: ''
