@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Windiarta
   metaDescription: Windiarta's Landing Page
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/bg.png
   type: Seo
   addTitleSuffix: false
 type: PageLayout
