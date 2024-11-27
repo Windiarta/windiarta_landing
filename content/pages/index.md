@@ -69,7 +69,7 @@ sections:
         fontWeight: 400
   - type: FeaturedItemsSection
     title:
-      text: Framework
+      text: Core Skill
       color: text-dark
       styles:
         self:
