@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: See Blog
         altText: ''
         url: /blog
         showIcon: false
