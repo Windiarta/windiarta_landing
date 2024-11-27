@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Windiarta
 slug: /
 sections:
   - type: GenericSection
