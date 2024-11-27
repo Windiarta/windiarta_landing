@@ -28,9 +28,6 @@ sections:
           self:
             flexDirection: row
         text: >
-          ###### Sept 2024 - Now
-
-
           #### Jr Technician Data Science (Data Engineer)
 
 
