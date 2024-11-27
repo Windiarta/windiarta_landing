@@ -27,6 +27,12 @@ sections:
         styles:
           self:
             flexDirection: row
+        text: |
+          ### 2024 - Present
+          Jr. Technician Data Science (Data Engineer)
+
+          ### 2023
+          Data Engineer Intern
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
