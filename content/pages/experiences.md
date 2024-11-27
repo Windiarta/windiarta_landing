@@ -30,6 +30,7 @@ sections:
         text: |+
           ##### Jr. Technician Data Science (Data Engineer)
 
+        tagline: aslkhc
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
