@@ -16,33 +16,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-        tagline: Sept 2023 - Des 2023
-        text: >
-          #### **Data Engineer Intern**
-
-
-          As a Data Engineer intern, I've gained hands-on experience with ETL
-          and ELT pipelines, developed APIs to enable efficient data
-          integration, and created models to address real-world business
-          problems. I'm also passionate about leveraging generative AI to drive
-          innovation. I'm eager to continue learning and contributing to
-          impactful projects.
-      - type: FeaturedItem
-        title: PT Pupuk Indonesia (Persero)
-        subtitle: ''
-        image:
-          type: ImageBlock
           url: /images/abstract-background.svg
           altText: Cotton Knit Throws
           elementId: ''
@@ -65,6 +38,33 @@ sections:
           generative AI to unlock new opportunities and insights. Let’s connect
           and discuss how data and AI can shape the future!
         tagline: Sept 2024 - Present
+      - type: FeaturedItem
+        title: PT Pupuk Indonesia (Persero)
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+        tagline: Sept 2023 - Des 2023
+        text: >
+          #### **Data Engineer Intern**
+
+
+          As a Data Engineer intern, I've gained hands-on experience with ETL
+          and ELT pipelines, developed APIs to enable efficient data
+          integration, and created models to address real-world business
+          problems. I'm also passionate about leveraging generative AI to drive
+          innovation. I'm eager to continue learning and contributing to
+          impactful projects.
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
