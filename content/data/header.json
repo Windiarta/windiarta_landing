@@ -44,7 +44,7 @@
         {
             "label": "Experiences",
             "altText": "Experiences",
-            "url": "/education",
+            "url": "/experiences",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
