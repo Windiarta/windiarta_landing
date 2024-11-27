@@ -68,7 +68,7 @@ sections:
       - type: FeaturedItem
         title: PT Ghraha Trimitra Selaras
         tagline: July 2023 - Present
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
