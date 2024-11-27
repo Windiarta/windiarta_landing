@@ -42,7 +42,7 @@ sections:
             - mb-20
             - mr-20
     badge:
-      label: Hello!! I'm
+      label: Hello!! I am
       color: text-primary
       type: Badge
     elementId: ''
