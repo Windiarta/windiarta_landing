@@ -217,7 +217,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
 seo:
-  metaTitle: ''
+  metaTitle: Windiarta
   metaDescription: ''
   socialImage: /images/bg.png
   type: Seo
