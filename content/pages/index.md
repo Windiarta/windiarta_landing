@@ -39,10 +39,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-40
-            - pl-16
-            - pb-40
-            - pr-16
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
     badge:
       label: This is a badge
       color: text-primary
