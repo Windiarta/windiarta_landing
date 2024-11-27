@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: PT Pupuk Indonesia (Persero)
-        subtitle: '  kcjb'
+        subtitle: '**Hallo**'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
