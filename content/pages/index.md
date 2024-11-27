@@ -12,8 +12,8 @@ sections:
       #### a **Full Stack** Developer from **Indonesia**
 
 
-      An Anthusiast of developing in newest technology, Passionate in Machine
-      Learning, Generative AI, Mobile development, and Web Development.
+      An Anthusiast of developing in newest technology, Passionate in Data,
+      Machine Learning, Generative AI, Mobile development, and Web Development.
     actions:
       - label: Get started
         altText: ''
