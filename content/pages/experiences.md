@@ -28,6 +28,9 @@ sections:
           self:
             flexDirection: row
         text: >
+          #### Data Engineer
+
+
           As a Data Engineer, I specialize in building robust ETL and ELT
           pipelines, designing APIs that seamlessly connect systems, and
           crafting data-driven models to solve complex business challenges.
