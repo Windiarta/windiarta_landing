@@ -28,7 +28,7 @@ sections:
           self:
             flexDirection: row
         text: >
-          #### Data Engineer
+          #### Jr Technician Data Science (Data Engineer)
 
 
           As a Data Engineer, I specialize in building robust ETL and ELT
