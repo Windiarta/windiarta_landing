@@ -40,7 +40,7 @@ sections:
         tagline: Sept 2024 - Present
       - type: FeaturedItem
         title: ''
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
