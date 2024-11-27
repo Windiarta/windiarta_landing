@@ -101,8 +101,11 @@ sections:
         title: Bangkit Academy
         tagline: Oct 2024 - Present
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          #### **Mobile Development Mentor**
+
+          Description Here
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
