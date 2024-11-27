@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: projects
+slug: /projects
 seo:
   type: Seo
   metaTitle: Careers - Demo site
