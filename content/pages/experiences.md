@@ -69,8 +69,16 @@ sections:
         title: PT Ghraha Trimitra Selaras
         tagline: July 2023 - Present
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          #### **Full Stack Developer**
+
+
+          As a Full Stack Developer, I enjoy creating seamless and efficient web
+          applications by combining front-end creativity with back-end logic.
+          From designing intuitive user interfaces to building robust APIs and
+          scalable databases, I’m passionate about delivering end-to-end
+          solutions. Let’s connect and collaborate on innovative projects!
+
         image:
           type: ImageBlock
           url: /images/abstract-background.svg
