@@ -99,10 +99,10 @@ sections:
               borderRadius: x-large
       - title: Backend Dev
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Skilled in creating **RESTful APIs** for **Data Analytic** by
+          integrating **Traditional** and **Generative AI**, and integrating
+          **microservices** using modern frameworks.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
