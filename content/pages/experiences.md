@@ -55,6 +55,10 @@ sections:
           self:
             flexDirection: row
         tagline: Sept 2023 - Des 2023
+        text: |
+          **Data Engineer Intern**
+
+          advslkjnakjvf
     actions: []
     elementId: ''
     variant: small-list
