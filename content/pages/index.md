@@ -63,6 +63,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
