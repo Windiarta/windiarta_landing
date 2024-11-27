@@ -44,10 +44,10 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-36
-            - ml-36
-            - mb-36
-            - mr-36
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     badge:
       label: Hello!! I'm
       color: text-primary
