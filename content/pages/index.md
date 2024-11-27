@@ -124,10 +124,10 @@ sections:
         type: FeaturedItem
       - title: Frontend Dev
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Expert in creating responsive web interfaces with **React**, as well
+          as building modern Android applications using **Kotlin** and **Jetpack
+          Compose**.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
