@@ -41,7 +41,7 @@ sections:
           padding:
             - pt-40
             - pl-16
-            - pb-16
+            - pb-40
             - pr-16
     badge:
       label: This is a badge
