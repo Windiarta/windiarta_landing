@@ -2,7 +2,7 @@
 type: PostLayout
 title: PT Pupuk Indonesia (Persero)
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2024-11-12'
+date: ''
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
