@@ -43,7 +43,7 @@
         },
         {
             "label": "Experiences",
-            "altText": "Education",
+            "altText": "",
             "url": "/education",
             "icon": "arrowRight",
             "iconPosition": "right",
