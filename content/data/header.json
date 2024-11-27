@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/bg.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
