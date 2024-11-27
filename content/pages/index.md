@@ -16,7 +16,7 @@ sections:
       Machine Learning, Generative AI, Mobile development, and Web Development.
     actions:
       - label: View Blog
-        altText: ''
+        altText: Blog
         url: /blog
         showIcon: false
         icon: arrowRight
