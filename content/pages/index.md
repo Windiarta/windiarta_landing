@@ -71,11 +71,10 @@ sections:
       - type: FeaturedItem
         title: Database
         subtitle: ''
-        text: >+
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-
+        text: >
+          Proficient in architecting and managing RDBMS, and using data from
+          NoSQL, GraphQL, and Vector Database, ensuring high performance and
+          scalability for large datasets
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
