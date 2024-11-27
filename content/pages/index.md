@@ -4,40 +4,45 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Windiarta
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      #### a **Data Engineer** and **Full Stack** Developer
+
+
+      An Anthusiast of developing in newest technology, Passionate in Data,
+      Machine Learning, Generative AI, Web Development and Mobile development.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
+      - type: Button
+        label: See Blog
+        altText: See Blog
+        url: /blog
         showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Foto WIn.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
+          margin:
+            - mt-20
+            - ml-20
+            - mb-20
+            - mr-20
     badge:
-      label: This is a badge
+      label: Hello!! I am
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,23 +56,25 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontWeight: 400
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Core Skill
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Top 3 tools that I used for projects
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Database
+        subtitle: ''
+        text: >
+          Proficient in architecting and managing **RDBMS**, and using data from
+          **NoSQL**, **GraphQL**, and **Vector Database**, ensuring high
+          performance and scalability for large datasets
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +97,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Backend Dev
+        subtitle: ''
+        text: >
+          Skilled in creating RESTful APIs integrates **Machine Learning** and
+          **Generative AI**, including **Chat bots**. Also experienced in
+          **Transactional API.**
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +122,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Frontend Dev
+        subtitle: ''
+        text: >
+          Expert in creating responsive web interfaces with **React**, as well
+          as building modern Android applications using **Kotlin** and **Jetpack
+          Compose**.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,9 +146,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: See More
         altText: ''
-        url: /
+        url: /projects
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -149,7 +156,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -168,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: And the other Frameworks
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -435,7 +442,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +472,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +532,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +562,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +657,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -739,9 +751,12 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Windiarta
+  metaDescription: Windiarta's Landing Page
+  socialImage: /images/bg.png
   type: Seo
+  addTitleSuffix: false
+  metaTags: []
 type: PageLayout
+isDraft: true
 ---
