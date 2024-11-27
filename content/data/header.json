@@ -42,18 +42,9 @@
             "type": "Link"
         },
         {
-            "label": "Education",
-            "altText": "Education",
-            "url": "/education",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Experiences",
+            "altText": "Experiences",
+            "url": "/experiences",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
