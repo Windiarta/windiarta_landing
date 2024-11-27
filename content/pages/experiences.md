@@ -28,7 +28,7 @@ sections:
           self:
             flexDirection: row
         text: >
-          ###### Sept 2024 - Now
+          ###### <sup>Sept 2024 - Now</sup>
 
 
           #### Jr Technician Data Science (Data Engineer)
