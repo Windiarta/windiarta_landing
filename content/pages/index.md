@@ -26,7 +26,7 @@ sections:
         type: Button
       - type: Button
         label: See Blog
-        altText: ''
+        altText: See Blog
         url: /blog
         showIcon: false
         icon: arrowRight
