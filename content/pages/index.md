@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: And the other Frameworks
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
