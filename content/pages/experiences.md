@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: PT Pupuk Indonesia (Persero)
-        subtitle: Jr. Technician Data Science (Data Engineer)
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
