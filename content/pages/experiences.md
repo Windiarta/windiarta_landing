@@ -55,10 +55,16 @@ sections:
           self:
             flexDirection: row
         tagline: Sept 2023 - Des 2023
-        text: |
+        text: >
           #### **Data Engineer Intern**
 
-          advslkjnakjvf
+
+          As a Data Engineer intern, I've gained hands-on experience with ETL
+          and ELT pipelines, developed APIs to enable efficient data
+          integration, and created models to address real-world business
+          problems. I'm also passionate about leveraging generative AI to drive
+          innovation. I'm eager to continue learning and contributing to
+          impactful projects.
     actions: []
     elementId: ''
     variant: small-list
