@@ -101,9 +101,7 @@ sections:
         subtitle: ''
         text: >
           Skilled in creating RESTful APIs for Data Analytic by integrating
-          **Machine Learning** and **Generative AI**, including **Chat bots**. 
-
-
+          **Machine Learning** and **Generative AI**, including **Chat bots**.
           Also experienced in **Transactional API.**
         image:
           url: /images/icon2.svg
