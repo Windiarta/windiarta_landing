@@ -70,7 +70,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Database
-        subtitle: Numbers Done
+        subtitle: 'RDBMS, GraphQL'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
