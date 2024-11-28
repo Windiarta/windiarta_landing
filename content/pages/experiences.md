@@ -311,6 +311,11 @@ sections:
           self:
             flexDirection: row
         tagline: Dec 2020 - Jan 2022
+        text: |+
+          #### **Staff of Programming Divission**
+
+          STM32 coding
+
     actions: []
     elementId: ''
     variant: small-list
