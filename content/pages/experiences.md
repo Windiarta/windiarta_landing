@@ -260,8 +260,13 @@ sections:
         title: Keluarga Mahasiswa Universitas Indonesia
         tagline: Jan 2021 - Des 2021
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          #### **Staff of Creative Event Division**
+
+          as PIC of Birthday Greetings
+
+          as Project Officer of KMBUI Fest 2021
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
