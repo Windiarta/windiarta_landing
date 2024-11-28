@@ -130,7 +130,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/abstract-background.svg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
