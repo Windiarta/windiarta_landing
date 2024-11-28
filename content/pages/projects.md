@@ -277,7 +277,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Programming Language
       color: text-dark
   - type: FeaturedPostsSection
     title:
