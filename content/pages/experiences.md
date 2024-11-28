@@ -258,7 +258,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Keluarga Mahasiswa Universitas Indonesia
-        tagline: This is the tagline
+        tagline: Jan 2021 - Des 2023
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
