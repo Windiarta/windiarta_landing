@@ -14,6 +14,13 @@ sections:
       type: ImageBlock
       url: /images/hero3.svg
       altText: Dope design preview
+      styles:
+        self:
+          margin:
+            - mt-11
+            - ml-11
+            - mb-11
+            - mr-11
     badge:
       type: Badge
       label: Education
