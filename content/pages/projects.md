@@ -62,7 +62,7 @@ sections:
         price: Data Engineering
         details: ''
         description: |
-          My Mobile Development Certificates
+          My Data Certificates
         features: []
         image:
           type: ImageBlock
