@@ -86,7 +86,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Mobile Dev
+        price: Computer Network
         details: ''
         description: |
           My Mobile Development Certificates
