@@ -86,7 +86,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Mobile Dev
+        price: Cloud Computing
         details: ''
         description: |
           My Mobile Development Certificates
