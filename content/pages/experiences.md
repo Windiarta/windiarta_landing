@@ -233,7 +233,7 @@ sections:
             flexDirection: row
         tagline: Jan 2021 - Des 2023
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Tim Robotika Universitas Indonesia
         subtitle: $117
         image:
           type: ImageBlock
