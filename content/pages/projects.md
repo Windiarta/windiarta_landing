@@ -113,6 +113,33 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
+        price: Mobile Dev
+        details: ''
+        description: |
+          My Mobile Development Certificates
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Details
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: ''
         price: Computer Network
         details: ''
         description: |
