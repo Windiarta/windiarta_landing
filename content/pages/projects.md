@@ -196,8 +196,9 @@ sections:
         title: ''
         price: Others
         details: ''
-        description: |
-          My Mobile Development Certificates
+        description: >
+          Other Certificates, like Project Management, Programming Principals,
+          etc.
         features: []
         image:
           type: ImageBlock
