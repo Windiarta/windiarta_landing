@@ -326,7 +326,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Waisak 2023
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
