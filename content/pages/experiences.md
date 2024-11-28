@@ -259,7 +259,7 @@ sections:
       - type: FeaturedItem
         title: Keluarga Mahasiswa Universitas Indonesia
         tagline: Jan 2021 - Des 2021
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
