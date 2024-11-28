@@ -89,7 +89,7 @@ sections:
         price: Machine Learning
         details: ''
         description: |
-          My Mobile Development Certificates
+          My Machine Learning Certificates
         features: []
         image:
           type: ImageBlock
