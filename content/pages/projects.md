@@ -60,7 +60,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Mobile Dev
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
