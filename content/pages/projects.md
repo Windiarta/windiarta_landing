@@ -50,7 +50,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Certifications
       color: text-dark
       styles:
         self:
