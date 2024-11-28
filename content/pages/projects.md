@@ -59,7 +59,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: Mobile Dev
+        price: Data Eng
         details: ''
         description: |
           My Mobile Development Certificates
