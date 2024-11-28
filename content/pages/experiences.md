@@ -25,7 +25,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Universitas
+      label: Education
       color: text-primary
     colors: bg-light-fg-dark
     styles:
