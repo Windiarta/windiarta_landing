@@ -216,7 +216,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Keluarga Mahasiswa Buddhis Universitas Indonesia
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
