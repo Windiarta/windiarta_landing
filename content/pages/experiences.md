@@ -156,8 +156,13 @@ sections:
         title: Digital Laboratory Universitas Indonesia
         tagline: Aug 2022 - Aug 2024
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          #### **Laboratory Assistant**
+
+          Description Here
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
