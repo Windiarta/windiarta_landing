@@ -64,7 +64,6 @@ sections:
         description: |
           My Mobile Development Certificates
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
