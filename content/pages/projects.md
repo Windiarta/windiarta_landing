@@ -58,7 +58,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
+        title: ''
         price: Mobile Development
         details: No credit card required
         description: >-
