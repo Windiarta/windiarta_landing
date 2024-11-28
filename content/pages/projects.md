@@ -89,7 +89,7 @@ sections:
         price: Cloud Computing
         details: ''
         description: |
-          My Mobile Development Certificates
+          My Cloud Computing Certificates
         features: []
         image:
           type: ImageBlock
