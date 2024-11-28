@@ -1,0 +1,61 @@
+{
+    "model": "PricingPlan",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Certificates",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "custom"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "",
+                "price": "Mobile Dev",
+                "details": "",
+                "description": "My Mobile Development Certificates\n",
+                "features": [],
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature1.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Pricing plan 1",
+                    "elementId": null,
+                    "styles": null
+                },
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Details",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    }
+                ],
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pb-10",
+                            "pl-6",
+                            "pr-6"
+                        ],
+                        "borderRadius": "large"
+                    }
+                }
+            },
+            "thumbnail": "images/pricing-plan-certificates-8c64.png"
+        }
+    ]
+}
