@@ -278,7 +278,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Projects
       color: text-primary
       styles:
         self:
