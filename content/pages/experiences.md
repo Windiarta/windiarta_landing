@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Universitas Indonesia
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Computer Engineering (2020-2024)
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
