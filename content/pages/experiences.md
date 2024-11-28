@@ -237,7 +237,11 @@ sections:
         tagline: Jan 2022 - Des 2022
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          #### **Deputy Head of Creative Event Division**
+
+          as Creator & Project Officer of KMBUI on Vacation
+
+          as Steering Commitee of KMBUI Fest 2022
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
