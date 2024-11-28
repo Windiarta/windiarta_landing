@@ -63,8 +63,7 @@ sections:
         details: ''
         description: |
           My Mobile Development Certificates
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
