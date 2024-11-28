@@ -310,6 +310,7 @@ sections:
         styles:
           self:
             flexDirection: row
+        tagline: Dec 2021 - Jan 2024
     actions: []
     elementId: ''
     variant: small-list
