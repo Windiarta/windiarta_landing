@@ -89,7 +89,7 @@ sections:
         price: Computer Network
         details: ''
         description: |
-          My Mobile Development Certificates
+          My Computer Network Certificates
         features: []
         image:
           type: ImageBlock
