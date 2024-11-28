@@ -9,14 +9,7 @@ sections:
       color: text-dark
     subtitle: Computer Engineering (2020-2024)
     text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
