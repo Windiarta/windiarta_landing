@@ -232,6 +232,11 @@ sections:
           self:
             flexDirection: row
         tagline: Jan 2023 - Des 2023
+        text: |+
+          #### **Head of Research and Development Commission**
+
+          as 
+
       - type: FeaturedItem
         title: Keluarga Mahasiswa Universitas Indonesia
         tagline: Jan 2022 - Des 2022
