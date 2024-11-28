@@ -154,7 +154,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Digital Laboratory Universitas Indonesia
-        tagline: ''
+        tagline: Aug 2022 - Aug 2024
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
