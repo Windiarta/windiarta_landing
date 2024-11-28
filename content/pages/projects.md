@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Projects
+title: Windiarta | Projects
 sections:
   - type: GenericSection
     title:
