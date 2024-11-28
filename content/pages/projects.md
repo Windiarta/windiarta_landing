@@ -50,7 +50,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Certificates
       color: text-dark
       styles:
         self:
