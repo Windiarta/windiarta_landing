@@ -180,7 +180,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Organizations
       color: text-dark
       styles:
         self:
