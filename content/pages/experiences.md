@@ -231,6 +231,7 @@ sections:
         styles:
           self:
             flexDirection: row
+        tagline: Jan 2021 - Des 2023
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
