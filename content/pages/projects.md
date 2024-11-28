@@ -227,7 +227,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: ''
+    subtitle: Programming Language
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
