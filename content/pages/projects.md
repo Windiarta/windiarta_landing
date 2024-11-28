@@ -113,7 +113,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Mobile Dev
+        price: Mobile & Frontend
         details: ''
         description: |
           My Mobile Development Certificates
