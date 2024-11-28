@@ -275,10 +275,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: Programming Language
-      color: text-dark
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
