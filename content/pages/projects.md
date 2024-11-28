@@ -194,7 +194,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Mobile Dev
+        price: Others
         details: ''
         description: |
           My Mobile Development Certificates
