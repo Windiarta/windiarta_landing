@@ -231,7 +231,7 @@ sections:
         styles:
           self:
             flexDirection: row
-        tagline: Jan 2021 - Des 2023
+        tagline: Jan 2023 - Des 2023
       - type: FeaturedItem
         title: Tim Robotika Universitas Indonesia
         subtitle: $117
