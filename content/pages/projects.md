@@ -86,7 +86,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Mobile Dev
+        price: Machine Learning
         details: ''
         description: |
           My Mobile Development Certificates
