@@ -382,7 +382,7 @@ sections:
       - type: FeaturedItem
         title: Waisak 2023
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Kemayoran, Jakarta'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
