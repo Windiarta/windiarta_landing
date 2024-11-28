@@ -59,7 +59,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: Data Engineering
+        price: Data
         details: ''
         description: |
           My Data Certificates
