@@ -61,9 +61,8 @@ sections:
         title: ''
         price: Mobile Dev
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          My Mobile Development Certificates
         features:
           - Feature one
           - Feature two
