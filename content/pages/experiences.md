@@ -232,11 +232,12 @@ sections:
           self:
             flexDirection: row
         tagline: Jan 2023 - Des 2023
-        text: |+
+        text: |
           #### **Head of Research and Development Commission**
 
-          as 
+          as Coordinator of KMBUI Internship Program
 
+          as Steering Commitee of Malam Keakraban KMBUI 2023
       - type: FeaturedItem
         title: Keluarga Mahasiswa Universitas Indonesia
         tagline: Jan 2022 - Des 2022
