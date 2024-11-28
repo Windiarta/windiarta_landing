@@ -8,9 +8,7 @@ sections:
       text: Universitas Indonesia
       color: text-dark
     subtitle: Computer Engineering (2020-2024)
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Link
         label: See Tutorials
