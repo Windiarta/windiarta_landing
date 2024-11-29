@@ -42,7 +42,7 @@
                     "type": "Link",
                     "label": "Mobile Dev",
                     "altText": "",
-                    "url": "/",
+                    "url": "/blog/mobile",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
