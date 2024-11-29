@@ -30,7 +30,7 @@
                 {
                     "type": "Link",
                     "label": "Basic Compute",
-                    "altText": "Web & Mobile",
+                    "altText": "Basic Compute",
                     "url": "/blog/basic-compute",
                     "showIcon": false,
                     "icon": "arrowRight",
