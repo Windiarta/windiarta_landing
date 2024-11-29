@@ -110,7 +110,7 @@ Transistors are vital because they provide the mechanism to handle binary states
 
 ####
 
-**Transistors and Logic Gates**
+#### **Transistors and Logic Gates**
 
 A **logic gate** performs basic logical functions like AND, OR, NOT, NAND, NOR, XOR, etc., using combinations of binary inputs and outputs. Transistors, arranged in specific configurations, make up these gates.
 
