@@ -96,12 +96,9 @@ MIPS is a simplified microprocessor design that’s perfect for learning the fun
 
 Our computer will be simple, stripped down to its essential features, and won’t include an operating system. This simplicity allows us to focus entirely on understanding the underlying architecture and operation.
 
-
-
 ### **Transistor and How It Works**
 
 Transistors are the fundamental building blocks of all modern electronic devices. At their core, they are semiconductor devices that act as switches or amplifiers. Their significance becomes even clearer when diving into the architecture of systems like MIPS, which rely on binary logic to perform computations. Here's a detailed look at why transistors are crucial, particularly in the context of logic gates and computing:
-
 
 #### **Why Transistors Matter**
 
@@ -111,7 +108,8 @@ Transistors are vital because they provide the mechanism to handle binary states
 
 2.  **Amplifiers:** In analog circuits, they can amplify weak signals, though their role as switches is more relevant in digital systems.
 
-#### 
+####
+
 **Transistors and Logic Gates**
 
 A **logic gate** performs basic logical functions like AND, OR, NOT, NAND, NOR, XOR, etc., using combinations of binary inputs and outputs. Transistors, arranged in specific configurations, make up these gates.
@@ -146,8 +144,9 @@ Understanding different types of transistors is crucial for designing efficient 
 
     *   Dominates in digital electronics, including CPUs, due to its efficiency, speed, and scalability.
 
-#### 
-**Transistor as Traditional Logic Gates**
+####
+
+#### **Transistor as Traditional Logic Gates**
 
 In traditional logic circuits, transistors are connected in arrangements that implement specific logical operations. For example:
 
@@ -156,13 +155,3 @@ In traditional logic circuits, transistors are connected in arrangements that im
 By mastering transistors, you unlock the ability to understand and build everything from basic circuits to advanced computing architectures like the MIPS-based computer.
 
 Would you like to dive deeper into any specific type of transistor, logic gate design, or how these are implemented in MIPS architecture?
-
-
-
-
-
-
-
-
-
-
