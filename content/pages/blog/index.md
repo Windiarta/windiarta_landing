@@ -82,7 +82,7 @@ topSections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/abstract-feature2.svg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
