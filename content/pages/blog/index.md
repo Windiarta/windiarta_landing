@@ -14,7 +14,7 @@ topSections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Basic Compute
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
