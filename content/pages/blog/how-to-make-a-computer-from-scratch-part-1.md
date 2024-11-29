@@ -108,8 +108,6 @@ Transistors are vital because they provide the mechanism to handle binary states
 
 2.  **Amplifiers:** In analog circuits, they can amplify weak signals, though their role as switches is more relevant in digital systems.
 
-####
-
 #### **Transistors and Logic Gates**
 
 A **logic gate** performs basic logical functions like AND, OR, NOT, NAND, NOR, XOR, etc., using combinations of binary inputs and outputs. Transistors, arranged in specific configurations, make up these gates.
@@ -144,7 +142,6 @@ Understanding different types of transistors is crucial for designing efficient 
 
     *   Dominates in digital electronics, including CPUs, due to its efficiency, speed, and scalability.
 
-####
 
 #### **Transistor as Traditional Logic Gates**
 
