@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Windiarta | Blog
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
