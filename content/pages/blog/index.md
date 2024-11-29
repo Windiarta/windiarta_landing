@@ -55,7 +55,7 @@ topSections:
 
       - type: FeaturedItem
         title: Web & Mobile
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
