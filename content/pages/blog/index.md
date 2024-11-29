@@ -49,7 +49,7 @@ topSections:
               - pl-0
               - pb-0
               - pr-0
-            borderRadius: x-large
+            borderRadius: none
             flexDirection: col
       - type: FeaturedItem
         title: Web & Mobile
