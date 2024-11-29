@@ -35,7 +35,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Blog",
             "altText": "Dropdown",
             "links": [
                 {
