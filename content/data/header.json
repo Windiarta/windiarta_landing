@@ -23,17 +23,6 @@
             "elementId": ""
         },
         {
-            "type": "Link",
-            "label": "Blog",
-            "altText": "",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Blog",
             "altText": "Blog",
