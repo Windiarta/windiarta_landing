@@ -41,7 +41,7 @@
                 {
                     "type": "Link",
                     "label": "Web & Mobile",
-                    "altText": "",
+                    "altText": "Web & Mobile",
                     "url": "/blog/compute",
                     "showIcon": false,
                     "icon": "arrowRight",
