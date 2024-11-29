@@ -5,7 +5,7 @@ date: '2024-11-29'
 author: content/data/person1.json
 excerpt: >-
   This part 1 will introduce you a beginner friendly tutorial to make a simple
-  computer from scratch
+  computer from scratch.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
