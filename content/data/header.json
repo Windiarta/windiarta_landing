@@ -34,34 +34,6 @@
             "elementId": ""
         },
         {
-            "label": "Skill & Projects",
-            "url": "/projects",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Experiences",
-            "altText": "Experiences",
-            "url": "/experiences",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Contact",
-            "altText": "",
-            "url": "/contact",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
@@ -101,6 +73,34 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "Skill & Projects",
+            "url": "/projects",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Experiences",
+            "altText": "Experiences",
+            "url": "/experiences",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Contact",
+            "altText": "",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
