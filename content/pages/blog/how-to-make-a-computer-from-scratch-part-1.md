@@ -66,11 +66,15 @@ styles:
 ---
 This part 1 will introduce you a beginner friendly tutorial to make a simple computer from scratch. So, get ready to learn how to create it.
 
-## **What will you learn**
+## **What Will We Discuss?**
 
-In this section, you will learn about:
+In this section, we will discuss about:
 
 1.  Transistor and how it works
 2.  Basic of Computer System
 3.  How to Assemble and Code in low level language
+
+
+
+## **Simple Computer**
 
