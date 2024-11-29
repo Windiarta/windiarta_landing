@@ -32,7 +32,7 @@
                     "label": "Web & Mobile Development",
                     "altText": "",
                     "url": "/blog/programming",
-                    "showIcon": true,
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
