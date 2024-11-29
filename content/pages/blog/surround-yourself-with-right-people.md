@@ -1,5 +1,5 @@
 ---
-title: Basic Compute
+title: Web & Mobile Development
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
