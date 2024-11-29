@@ -1,5 +1,5 @@
 ---
-title: Mobile Development
+title: Web and Mobile Development
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
