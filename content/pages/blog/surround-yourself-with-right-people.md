@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: Basic Compute
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
