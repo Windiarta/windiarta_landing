@@ -26,7 +26,7 @@ postFeed:
   showAuthor: true
   actions: []
   elementId: null
-  variant: two-col-grid
+  variant: small-list
   colors: bg-light-fg-dark
   hoverEffect: shadow-plus-move-up
 ---
