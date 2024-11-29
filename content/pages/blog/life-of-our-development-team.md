@@ -15,7 +15,7 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: A Day in the Life of Our Development Team
+  metaTitle: Basic Compute
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature3.svg
   type: Seo
