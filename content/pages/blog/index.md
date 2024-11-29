@@ -24,16 +24,7 @@ topSections:
           styles:
             self:
               borderRadius: medium
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /blog/basic-compute
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
