@@ -66,7 +66,7 @@ styles:
 ---
 This part 1 will introduce you a beginner friendly tutorial to make a simple computer from scratch. So, get ready to learn how to create it.
 
-## What will you learn
+## **What will you learn**
 
 In this section, you will learn about:
 
