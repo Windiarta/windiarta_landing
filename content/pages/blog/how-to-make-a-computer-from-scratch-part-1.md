@@ -84,7 +84,7 @@ In this section, we’ll explore the essential building blocks for constructing 
 
 At its core, a computer is a machine designed to perform calculations and solve problems. In this project, we’ll construct a basic computing engine based on MIPS architecture to simulate its functionality.
 
-#### **Why MIPS?**
+#### Why MIPS?
 
 MIPS is a simplified microprocessor design that’s perfect for learning the fundamentals of how a computer operates. By building a MIPS-based computer, you’ll get hands-on experience with concepts like:
 
@@ -92,7 +92,7 @@ MIPS is a simplified microprocessor design that’s perfect for learning the fun
 *   Data processing
 *   Low-level programming
 
-#### **What Will the Final Computer Look Like?**
+#### What Will the Final Computer Look Like?
 
 Our computer will be simple, stripped down to its essential features, and won’t include an operating system. This simplicity allows us to focus entirely on understanding the underlying architecture and operation.
 
@@ -100,7 +100,7 @@ Our computer will be simple, stripped down to its essential features, and won’
 
 Transistors are the fundamental building blocks of all modern electronic devices. At their core, they are semiconductor devices that act as switches or amplifiers. Their significance becomes even clearer when diving into the architecture of systems like MIPS, which rely on binary logic to perform computations. Here's a detailed look at why transistors are crucial, particularly in the context of logic gates and computing:
 
-#### **Why Transistors Matter**
+#### Why Transistors Matter
 
 Transistors are vital because they provide the mechanism to handle binary states, **HIGH (1)** and **LOW (0)**, which form the basis of digital computing. In the MIPS architecture (or any digital computing system), computations are performed by manipulating these binary states. Transistors enable this by acting as:
 
@@ -108,7 +108,7 @@ Transistors are vital because they provide the mechanism to handle binary states
 
 2.  **Amplifiers:** In analog circuits, they can amplify weak signals, though their role as switches is more relevant in digital systems.
 
-#### **Transistors and Logic Gates**
+#### Transistors and Logic Gates
 
 A **logic gate** performs basic logical functions like AND, OR, NOT, NAND, NOR, XOR, etc., using combinations of binary inputs and outputs. Transistors, arranged in specific configurations, make up these gates.
 
@@ -120,7 +120,7 @@ For instance:
 
 These logic gates are combined to create more complex circuits like adders, multiplexers, and ultimately, processors.
 
-#### **Types of Transistors**
+#### Types of Transistors
 
 Understanding different types of transistors is crucial for designing efficient circuits:
 
@@ -142,8 +142,7 @@ Understanding different types of transistors is crucial for designing efficient 
 
     *   Dominates in digital electronics, including CPUs, due to its efficiency, speed, and scalability.
 
-
-#### **Transistor as Traditional Logic Gates**
+#### Transistor as Traditional Logic Gates
 
 In traditional logic circuits, transistors are connected in arrangements that implement specific logical operations. For example:
 
