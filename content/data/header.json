@@ -53,7 +53,7 @@
                     "type": "Link",
                     "label": "Basic Compute",
                     "altText": "",
-                    "url": "/",
+                    "url": "/blog/compute",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
