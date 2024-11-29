@@ -75,6 +75,12 @@ topSections:
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
+        text: >
+          Explore the world of web and mobile development with this blog! Get
+          started with beginner-friendly tutorials and discover exciting
+          insights into creating websites and apps. Whether you're new to
+          development or looking to enhance your skills, there's something here
+          to inspire your journey.
       - type: FeaturedItem
         title: Machine Learning
         subtitle: $117
