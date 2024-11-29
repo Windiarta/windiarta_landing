@@ -1,5 +1,5 @@
 ---
-title: Web & Mobile Development
+title: Web & Mobile
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
