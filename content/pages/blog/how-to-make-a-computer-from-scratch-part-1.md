@@ -4,8 +4,8 @@ title: How to make a Computer from Scratch (Part 1)
 date: '2024-11-29'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  This part 1 will introduce you a beginner friendly tutorial to make a simple
+  computer from scratch
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
