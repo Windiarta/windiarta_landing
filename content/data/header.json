@@ -63,7 +63,7 @@
                 {
                     "type": "Link",
                     "label": "Machine Learning",
-                    "altText": "",
+                    "altText": "Machine Learning",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
