@@ -57,8 +57,13 @@ topSections:
         title: Basic Compute
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Discover the world of computing in this blog! Dive into
+          beginner-friendly coding courses and uncover fascinating insights that
+          will pique your curiosity and expand your knowledge. Whether you're
+          just starting out or looking to learn something new, there's something
+          here for everyone.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
