@@ -64,11 +64,11 @@ styles:
   self:
     flexDirection: col
 ---
-## **Building a Simple MIPS Architecture Computer: A Beginner's Guide**
+### **Building a Simple MIPS Architecture Computer: A Beginner's Guide**
 
 Welcome to Part 1 of this exciting journey! In this tutorial, you'll learn how to build a Microprocessor without Interlocked Pipelined Stages (MIPS) architecture computer from scratch. Get ready to dive into the fundamentals and create your very own simple computing engine!
 
-## **What Will We Cover?**
+### **What Will We Cover?**
 
 In this section, we’ll explore the essential building blocks for constructing your MIPS architecture computer, including:
 
@@ -81,7 +81,7 @@ In this section, we’ll explore the essential building blocks for constructing 
 3.  Assembling and Coding in Low-Level Languages
     Gain insights into assembling hardware and programming it using low-level languages to bring your computer to life.
 
-## **Understanding Simple Computers**
+### **Understanding Simple Computers**
 
 At its core, a computer is a machine designed to perform calculations and solve problems. In this project, we’ll construct a basic computing engine based on MIPS architecture to simulate its functionality.
 
@@ -97,7 +97,7 @@ MIPS is a simplified microprocessor design that’s perfect for learning the fun
 
 Our computer will be simple, stripped down to its essential features, and won’t include an operating system. This simplicity allows us to focus entirely on understanding the underlying architecture and operation.
 
-## **Getting Started: Why Transistors Matter**
+### **Getting Started: Why Transistors Matter**
 
 The journey begins with understanding transistors. These tiny components are the foundation of computing, acting as switches to control the flow of electrical signals. Mastering their role is key to building any computing device, including our MIPS-based computer.
 
