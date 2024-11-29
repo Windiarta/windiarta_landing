@@ -7,7 +7,7 @@ topSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Blogs
       color: text-dark
       styles:
         self:
