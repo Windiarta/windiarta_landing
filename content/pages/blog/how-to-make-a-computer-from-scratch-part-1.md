@@ -64,17 +64,19 @@ styles:
   self:
     flexDirection: col
 ---
-This part 1 will introduce you a beginner friendly tutorial to make a simple computer from scratch. So, get ready to learn how to create it.
+**Building a Simple MIPS Architecture Computer: A Beginner's Guide**
 
+Welcome to Part 1 of this exciting journey! In this tutorial, you'll learn how to build a Microprocessor without Interlocked Pipelined Stages (MIPS) architecture computer from scratch. Get ready to dive into the fundamentals and create your very own simple computing engine!
 ## **What Will We Discuss?**
 
 In this section, we will discuss about:
 
-1.  Transistor and how it works
+1.  Transistor and How It Works
 2.  Basic of Computer System
 3.  How to Assemble and Code in low level language
 
-
-
 ## **Simple Computer**
 
+Basicaly, computer is a machine that have tasks to do calculation to solve human problem. In this case, we will make a simple compute engine: *Microprocessor without Interlocked Pipelined Stages* (MIPS) just to simulate how it works. Our final computer will be very simple and we not going to install any Operating System on it. Nowdays, modern computer architecture might be different or more complicated from this current version.
+
+To arrange this computer **from scratch**, we will need to know about **Transistor and How It Works**. 
