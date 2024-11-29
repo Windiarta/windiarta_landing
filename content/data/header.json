@@ -30,7 +30,7 @@
                 {
                     "type": "Link",
                     "label": "Web & Mobile",
-                    "altText": "Web & Mobile Development",
+                    "altText": "Web & Mobile",
                     "url": "/blog/programming",
                     "showIcon": false,
                     "icon": "arrowRight",
