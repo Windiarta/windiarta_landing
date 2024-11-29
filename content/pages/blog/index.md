@@ -31,7 +31,7 @@ topSections:
             url: /blog/basic-compute
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
