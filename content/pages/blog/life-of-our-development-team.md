@@ -1,7 +1,7 @@
 ---
 title: Basic Compute
 slug: life-of-our-development-team
-date: '2024-01-27'
+date: '2024-11-27'
 excerpt: >-
   Discover the world of computing in this blog! Dive into beginner-friendly
   coding courses and uncover fascinating insights that will pique your curiosity
