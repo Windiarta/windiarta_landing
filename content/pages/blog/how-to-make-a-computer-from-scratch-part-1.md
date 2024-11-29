@@ -72,12 +72,12 @@ Welcome to Part 1 of this exciting journey! In this tutorial, you'll learn how t
 
 In this section, we’ll explore the essential building blocks for constructing your MIPS architecture computer, including:
 
-1.  **Transistors and How They Work** Learn the basics of transistors, the building blocks of modern electronics, and how they enable the operation of a computer.
+1.  **Transistors and How They Work (Part 1)** Learn the basics of transistors, the building blocks of modern electronics, and how they enable the operation of a computer.
 
-2.  **Basics of Computer Systems**
+2.  **Basics of Computer Systems (Part 2)** 
     Understand what makes a computer tick, from fundamental concepts to how components work together.
 
-3.  **Assembling and Coding in Low-Level Languages**
+3.  **Assembling and Coding in Low-Level Languages (Part 3)**
     Gain insights into assembling hardware and programming it using low-level languages to bring your computer to life.
 
 ### **Understanding Simple Computers**
