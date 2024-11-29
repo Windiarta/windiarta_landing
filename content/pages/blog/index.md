@@ -15,7 +15,7 @@ topSections:
     items:
       - type: FeaturedItem
         title: Basic Compute
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
