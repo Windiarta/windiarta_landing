@@ -31,7 +31,7 @@
                     "type": "Link",
                     "label": "Web & Mobile",
                     "altText": "Web & Mobile",
-                    "url": "/blog/programming",
+                    "url": "/blog/basic-compute",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
