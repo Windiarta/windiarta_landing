@@ -42,7 +42,7 @@
                     "type": "Link",
                     "label": "Web & Mobile",
                     "altText": "Web & Mobile",
-                    "url": "/blog/compute",
+                    "url": "/blog/web-mobile",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
