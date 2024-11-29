@@ -103,6 +103,12 @@ topSections:
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
+        text: >
+          Unlock the potential of machine learning with this blog! Dive into
+          beginner-friendly guides and discover fascinating insights into
+          building intelligent systems. Whether you're new to ML or eager to
+          expand your knowledge, there's plenty here to spark your curiosity and
+          fuel your learning journey.
     actions: []
     elementId: ''
     variant: three-col-grid
