@@ -83,7 +83,7 @@ topSections:
           to inspire your journey.
       - type: FeaturedItem
         title: Machine Learning
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
