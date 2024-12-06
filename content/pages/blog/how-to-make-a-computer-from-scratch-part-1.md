@@ -150,10 +150,8 @@ In traditional logic circuits, transistors are connected in arrangements that im
 
 To make NAND Gate, need 2 BJT, with 2 input, a ground, and a VCC. You can use another type of transistor like FET or MOSFET to make a logic gate, but in this tutorial, we will use a BJT.
 
-
+![](/images/logic_gates_1.jpg)
 
 src: [CPUville](http://cpuville.com/Educational/Logic-gates.html)
-
-
 
 Now, we already have a NAND Gate, what will we do next is to know more about logic gates, how to use it, and anything else that will be served in PART 2.
