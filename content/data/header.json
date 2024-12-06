@@ -23,15 +23,45 @@
             "elementId": ""
         },
         {
-            "type": "Link",
+            "type": "SubNav",
             "label": "Blog",
-            "altText": "",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
+            "altText": "Blog",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Basic Compute",
+                    "altText": "Basic Compute",
+                    "url": "/blog/basic-compute",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Web & Mobile",
+                    "altText": "Web & Mobile",
+                    "url": "/blog/web-mobile",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Machine Learning",
+                    "altText": "Machine Learning",
+                    "url": "/blog/machine-learning",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         },
         {
             "label": "Skill & Projects",
