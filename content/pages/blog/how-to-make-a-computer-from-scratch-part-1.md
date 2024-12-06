@@ -146,8 +146,9 @@ Understanding different types of transistors is crucial for designing efficient 
 
 In traditional logic circuits, transistors are connected in arrangements that implement specific logical operations. For example:
 
-*   **NAND Gate as Universal Gate:** A combination of MOSFETs can create a NAND gate, which is significant because all other gates (AND, OR, NOT, etc.) can be constructed from it.
+*   **NAND Gate as Universal Gate:** A combination of BJTs can create a NAND gate, which is significant because all other gates (AND, OR, NOT, etc.) can be constructed from it.
 
-By mastering transistors, you unlock the ability to understand and build everything from basic circuits to advanced computing architectures like the MIPS-based computer.
+To make NAND Gate, need 2 BJT, with 2 input, a ground, and a VCC. You can use another type of transistor like FET or MOSFET to make a logic gate, but in this tutorial, we will use a BJT. 
 
-Would you like to dive deeper into any specific type of transistor, logic gate design, or how these are implemented in MIPS architecture?
+![](https://i.sstatic.net/dmDGz.jpg)src:[ Electronics Stack Exchange](https://www.google.com/url?sa=i\&url=https%3A%2F%2Felectronics.stackexchange.com%2Fquestions%2F96531%2Fhow-does-this-bjt-circuit-work-as-a-nand-gate\&psig=AOvVaw1Grf_GcWT_TRWw4vAeHFHR\&ust=1733545154564000\&source=images\&cd=vfe\&opi=89978449\&ved=0CAMQjB1qFwoTCKjn2LilkooDFQAAAAAdAAAAABAE)
+
