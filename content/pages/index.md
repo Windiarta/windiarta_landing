@@ -136,8 +136,8 @@ sections:
         subtitle: ''
         text: >
           Expert in creating responsive web interfaces with **React**, as well
-          as building modern Android applications using **Kotlin** and **Jetpack
-          Compose**.
+          as building modern Android applications using **Kotlin, Jetpack
+          Compose** and **Flutterflow**.
         image:
           url: /images/browser.png
           altText: Featured icon three
