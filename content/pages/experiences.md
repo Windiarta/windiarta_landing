@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Logo-Pupuk-Indonesia-Dok.png
       altText: Dope design preview
     badge:
       type: Badge
