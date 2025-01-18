@@ -9,8 +9,14 @@ sections:
       color: text-dark
     subtitle: September 2024 - Present
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Designed and implemented a custom chatbot to revolutionize document-based
+      search, enabling seamless and efficient access to critical information.
+      Engineered a robust data lake management tool to optimize data storage and
+      accessibility, supporting smarter decision-making. Played a pivotal role
+      in strategizing fertilizer stock and distribution, driving operational
+      efficiency across the supply chain. Championed development excellence by
+      fostering a culture of clean coding, meticulous documentation, and
+      streamlined version control
     actions: []
     media:
       type: ImageBlock
