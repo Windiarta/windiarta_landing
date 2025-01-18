@@ -81,27 +81,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Backend Developer
-      color: text-dark
-    subtitle: PT Ghraha Trimitra Selaras
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: Bogor | June 2023 - December 2024
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Mobile Dev Mentor
       color: text-dark
     subtitle: Bangkit Academy | Yayasan Dicoding Indonesia
@@ -135,6 +114,27 @@ sections:
     badge:
       type: Badge
       label: Jakarta | September 2023 - December 2024
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Backend Developer
+      color: text-dark
+    subtitle: PT Ghraha Trimitra Selaras
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Bogor | June 2023 - December 2024
       color: text-primary
     colors: bg-light-fg-dark
     styles:
