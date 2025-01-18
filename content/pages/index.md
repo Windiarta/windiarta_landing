@@ -217,7 +217,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/qdrant.png
-        altText: Image alt text placeholder
+        altText: Qdrant
         elementId: ''
         styles:
           self:
