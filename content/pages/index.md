@@ -187,8 +187,7 @@ sections:
         textAlign: center
   - subtitle: And the other Frameworks
     images:
-      - url: /images/React_logo.png
-        altText: React logo
+      - altText: React logo
         type: ImageBlock
       - url: /images/Resized_Node.png
         altText: NodeJS logo
