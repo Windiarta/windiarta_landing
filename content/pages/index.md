@@ -190,6 +190,9 @@ sections:
       - altText: Flutterflow
         type: ImageBlock
         url: /images/flutterflow.png
+      - url: /images/Android_Studio_icon_(2023).svg.png
+        altText: Android Studio
+        type: ImageBlock
       - url: /images/Resized_Node.png
         altText: NodeJS
         type: ImageBlock
@@ -204,9 +207,6 @@ sections:
         type: ImageBlock
       - url: /images/fastapi.png
         altText: FastAPI
-        type: ImageBlock
-      - url: /images/Android_Studio_icon_(2023).svg.png
-        altText: Android Studio
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
