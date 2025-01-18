@@ -107,7 +107,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Bogor | June 2023 - December 2024
       color: text-primary
     colors: bg-light-fg-dark
     styles:
