@@ -60,7 +60,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Data Engineer (Intern)
+      text: Data Engineer (Internship)
       color: text-dark
     subtitle: PT Pupuk Indonesia (Persero)
     text: >
