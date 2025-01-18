@@ -60,7 +60,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Mobile Dev Mentor
       color: text-dark
     subtitle: Be in good company
     text: >
