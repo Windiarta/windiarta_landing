@@ -199,6 +199,13 @@ sections:
       - altText: Snowflake
         type: ImageBlock
         url: /images/Snowflake_Logo.svg.png
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/react.png
         altText: React
         type: ImageBlock
