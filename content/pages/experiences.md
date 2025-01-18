@@ -84,9 +84,7 @@ sections:
       text: Backend Developer
       color: text-dark
     subtitle: PT Ghraha Trimitra Selaras
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Button
         label: Get started
