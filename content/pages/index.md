@@ -193,7 +193,7 @@ sections:
       - url: /images/Resized_Node.png
         altText: NodeJS
         type: ImageBlock
-      - altText: Vise logo
+      - altText: Snowflake
         type: ImageBlock
         url: /images/Snowflake_Logo.svg.png
       - url: /images/react.png
