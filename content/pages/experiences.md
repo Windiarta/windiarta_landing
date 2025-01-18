@@ -82,7 +82,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/1574877958logo yabisaoke.jpg
+      url: /images/abstract-feature3.svg
       altText: Dope design preview
     badge:
       type: Badge
