@@ -82,7 +82,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/logo-bangkit-2022.png
       altText: Dope design preview
     badge:
       type: Badge
