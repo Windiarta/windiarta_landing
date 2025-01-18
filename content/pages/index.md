@@ -190,7 +190,7 @@ sections:
       - url: /images/React_logo.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/nodejs_logo.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
