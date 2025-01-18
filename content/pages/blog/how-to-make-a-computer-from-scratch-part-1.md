@@ -8,7 +8,7 @@ excerpt: >-
   computer from scratch.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/cpu.png
   altText: Thumbnail
   elementId: ''
   styles:
