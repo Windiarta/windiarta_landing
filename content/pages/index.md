@@ -200,7 +200,7 @@ sections:
         altText: React
         type: ImageBlock
       - url: /images/laravel2.png
-        altText: Contentful logo
+        altText: Laravel
         type: ImageBlock
       - url: /images/fastapi.png
         altText: Sanity logo
