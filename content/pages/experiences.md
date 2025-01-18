@@ -83,7 +83,7 @@ sections:
       type: TitleBlock
       text: Backend Developer
       color: text-dark
-    subtitle: Be in good company
+    subtitle: PT Ghraha Trimitra Selaras
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
