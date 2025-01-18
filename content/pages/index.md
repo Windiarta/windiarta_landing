@@ -188,7 +188,7 @@ sections:
   - subtitle: And the other Frameworks
     images:
       - url: /images/React_logo.png
-        altText: Empathy logo
+        altText: React logo
         type: ImageBlock
       - url: /images/nodejs_logo.png
         altText: NodeJS logo
