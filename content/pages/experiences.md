@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: experience
+slug: experiences
 seo:
   type: Seo
   metaTitle: Careers - Demo site
