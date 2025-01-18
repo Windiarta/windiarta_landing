@@ -187,7 +187,7 @@ sections:
         textAlign: center
   - subtitle: And the other Frameworks
     images:
-      - altText: React logo
+      - altText: Flutterflow
         type: ImageBlock
         url: /images/flutterflow.png
       - url: /images/Resized_Node.png
