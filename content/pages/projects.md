@@ -5,25 +5,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Projects (Coming Soon)
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    subtitle: ''
+    text: ''
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
@@ -223,55 +212,6 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: ImageGallerySection
-    subtitle: Programming Language
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
