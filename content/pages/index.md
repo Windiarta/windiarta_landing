@@ -190,7 +190,7 @@ sections:
       - url: /images/React_logo.png
         altText: React logo
         type: ImageBlock
-      - url: /images/nodejs_logo.png
+      - url: /images/Resized_Node.png
         altText: NodeJS logo
         type: ImageBlock
       - url: /images/vise-logo.svg
