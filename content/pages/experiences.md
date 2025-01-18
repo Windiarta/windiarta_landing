@@ -60,7 +60,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lead Programmer
+      text: Lead Programmer (Fullstack)
       color: text-dark
     subtitle: Be in good company
     text: >
