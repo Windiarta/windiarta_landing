@@ -203,7 +203,7 @@ sections:
       - url: /images/fastapi.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/Android_Studio_icon_(2023).svg.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
