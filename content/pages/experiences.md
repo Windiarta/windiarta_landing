@@ -62,7 +62,7 @@ sections:
       type: TitleBlock
       text: Mobile Dev Mentor
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Bangkit Academy | Yayasan Dicoding Indonesia
     text: ''
     actions:
       - type: Link
