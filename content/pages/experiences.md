@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Data Engineer
       color: text-dark
     subtitle: September 2024 - Present
     text: >
