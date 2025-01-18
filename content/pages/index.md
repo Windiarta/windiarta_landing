@@ -196,9 +196,6 @@ sections:
       - altText: Snowflake
         type: ImageBlock
         url: /images/Snowflake_Logo.svg.png
-      - url: /images/Resized_Node.png
-        altText: NodeJS
-        type: ImageBlock
       - type: ImageBlock
         url: /images/MySQL-Logo.png
         altText: Mysql
@@ -206,6 +203,9 @@ sections:
         styles:
           self:
             borderRadius: medium
+      - url: /images/Resized_Node.png
+        altText: NodeJS
+        type: ImageBlock
       - url: /images/laravel2.png
         altText: Laravel
         type: ImageBlock
