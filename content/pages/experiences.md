@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Working Experiences
+      text: Experiences
       color: text-dark
       styles:
         self:
