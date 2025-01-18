@@ -139,7 +139,7 @@ sections:
           as building modern Android applications using **Kotlin** and **Jetpack
           Compose**.
         image:
-          url: /images/icon3.svg
+          url: /images/browser.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
