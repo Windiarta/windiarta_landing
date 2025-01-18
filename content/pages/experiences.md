@@ -5,46 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Experiences
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    styles:
-      self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
