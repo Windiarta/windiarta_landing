@@ -114,7 +114,7 @@ sections:
           **Generative AI**, including **Chat bots**. Also experienced in
           **Transactional API.**
         image:
-          url: /images/icon2.svg
+          url: /images/web-development.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
