@@ -64,14 +64,7 @@ sections:
       color: text-dark
     subtitle: PT Pupuk Indonesia (Persero)
     text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Logo-Pupuk-Indonesia-Dok.png
