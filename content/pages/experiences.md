@@ -81,7 +81,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Backend Developer
       color: text-dark
     subtitle: Be in good company
     text: >
