@@ -206,14 +206,14 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/react.png
-        altText: React
-        type: ImageBlock
       - url: /images/laravel2.png
         altText: Laravel
         type: ImageBlock
       - url: /images/fastapi.png
         altText: FastAPI
+        type: ImageBlock
+      - url: /images/react.png
+        altText: React
         type: ImageBlock
       - type: ImageBlock
         url: /images/Google_Gemini_logo.svg.png
