@@ -193,12 +193,12 @@ sections:
       - url: /images/Android_Studio_icon_(2023).svg.png
         altText: Android Studio
         type: ImageBlock
-      - url: /images/Resized_Node.png
-        altText: NodeJS
-        type: ImageBlock
       - altText: Snowflake
         type: ImageBlock
         url: /images/Snowflake_Logo.svg.png
+      - url: /images/Resized_Node.png
+        altText: NodeJS
+        type: ImageBlock
       - type: ImageBlock
         url: /images/MySQL-Logo.png
         altText: Mysql
