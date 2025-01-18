@@ -103,7 +103,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/database.png
           styles:
             self:
               borderRadius: x-large
@@ -114,7 +114,7 @@ sections:
           **Generative AI**, including **Chat bots**. Also experienced in
           **Transactional API.**
         image:
-          url: /images/icon2.svg
+          url: /images/web-development.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -136,10 +136,10 @@ sections:
         subtitle: ''
         text: >
           Expert in creating responsive web interfaces with **React**, as well
-          as building modern Android applications using **Kotlin** and **Jetpack
-          Compose**.
+          as building modern Android applications using **Kotlin, Jetpack
+          Compose** and **Flutterflow**.
         image:
-          url: /images/icon3.svg
+          url: /images/browser.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -187,27 +187,48 @@ sections:
         textAlign: center
   - subtitle: And the other Frameworks
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: Flutterflow
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        url: /images/flutterflow.png
+      - url: /images/Android_Studio_icon_(2023).svg.png
+        altText: Android Studio
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: Snowflake
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+        url: /images/Snowflake_Logo.svg.png
+      - type: ImageBlock
+        url: /images/MySQL-Logo.png
+        altText: Mysql
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/Resized_Node.png
+        altText: NodeJS
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: /images/laravel2.png
+        altText: Laravel
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - url: /images/fastapi.png
+        altText: FastAPI
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/react.png
+        altText: React
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/Google_Gemini_logo.svg.png
+        altText: Gemini
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/qdrant.png
+        altText: Qdrant
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
