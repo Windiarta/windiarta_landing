@@ -206,7 +206,7 @@ sections:
         altText: FastAPI
         type: ImageBlock
       - url: /images/Android_Studio_icon_(2023).svg.png
-        altText: Rangle logo
+        altText: Android Studio
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
