@@ -195,6 +195,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
+        url: /images/Snowflake_Logo.svg.png
       - url: /images/react.png
         altText: Telus logo
         type: ImageBlock
