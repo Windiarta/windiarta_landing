@@ -191,7 +191,7 @@ sections:
         type: ImageBlock
         url: /images/flutterflow.png
       - url: /images/Resized_Node.png
-        altText: NodeJS logo
+        altText: NodeJS
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
