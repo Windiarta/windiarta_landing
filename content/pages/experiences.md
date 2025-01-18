@@ -42,9 +42,7 @@ sections:
       text: Data Engineer
       color: text-dark
     subtitle: PT Pupuk Indonesia (Persero)
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Button
         label: Get started
