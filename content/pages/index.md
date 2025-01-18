@@ -216,7 +216,7 @@ sections:
         altText: FastAPI
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/qdrant.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
