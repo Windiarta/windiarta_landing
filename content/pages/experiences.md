@@ -64,14 +64,7 @@ sections:
       color: text-dark
     subtitle: Bangkit Academy | Yayasan Dicoding Indonesia
     text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/logo-bangkit-2022.png
