@@ -200,7 +200,7 @@ sections:
       - url: /images/laravel2.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/fastapi.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
