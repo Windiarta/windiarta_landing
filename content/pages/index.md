@@ -192,7 +192,7 @@ sections:
       - url: /images/Resized_Node.png
         altText: NodeJS logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/React_logo.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
