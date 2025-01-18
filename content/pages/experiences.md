@@ -86,7 +86,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Online | October 2024
       color: text-primary
     colors: bg-light-fg-dark
     styles:
