@@ -201,7 +201,7 @@ sections:
         url: /images/Snowflake_Logo.svg.png
       - type: ImageBlock
         url: /images/MySQL-Logo.png
-        altText: Image alt text placeholder
+        altText: Mysql
         elementId: ''
         styles:
           self:
