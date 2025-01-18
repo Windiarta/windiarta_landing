@@ -203,7 +203,7 @@ sections:
         altText: Laravel
         type: ImageBlock
       - url: /images/fastapi.png
-        altText: Sanity logo
+        altText: FastAPI
         type: ImageBlock
       - url: /images/Android_Studio_icon_(2023).svg.png
         altText: Rangle logo
