@@ -216,15 +216,15 @@ sections:
         altText: FastAPI
         type: ImageBlock
       - type: ImageBlock
-        url: /images/qdrant.png
-        altText: Qdrant
+        url: /images/Google_Gemini_logo.svg.png
+        altText: Gemini
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Google_Gemini_logo.svg.png
-        altText: Gemini
+        url: /images/qdrant.png
+        altText: Qdrant
         elementId: ''
         styles:
           self:
