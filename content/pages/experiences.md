@@ -2,160 +2,149 @@
 type: PageLayout
 title: Windiarta | Experiences
 sections:
-  - type: FeaturedItemsSection
+  - type: GenericSection
     title:
       type: TitleBlock
-      text: Experiences
+      text: Working Experiences
       color: text-dark
       styles:
         self:
           textAlign: center
-    items:
-      - type: FeaturedItem
-        title: PT Pupuk Indonesia (Persero)
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-background.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-        text: >
-          #### **Jr Technician Data Science (Data Engineer)**
-
-
-          As a Data Engineer, I specialize in building robust ETL and ELT
-          pipelines, designing APIs that seamlessly connect systems, and
-          crafting data-driven models to solve complex business challenges.
-          Recently, I've also been exploring the transformative potential of
-          generative AI to unlock new opportunities and insights. Let’s connect
-          and discuss how data and AI can shape the future!
-        tagline: Sept 2024 - Present
-      - type: FeaturedItem
-        title: PT Pupuk Indonesia (Persero)
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-        tagline: Sept 2023 - Des 2023
-        text: >
-          #### **Data Engineer Intern**
-
-
-          As a Data Engineer intern, I've gained hands-on experience with ETL
-          and ELT pipelines, developed APIs to enable efficient data
-          integration, and created models to address real-world business
-          problems. I'm also passionate about leveraging generative AI to drive
-          innovation. I'm eager to continue learning and contributing to
-          impactful projects.
-      - type: FeaturedItem
-        title: PT Ghraha Trimitra Selaras
-        tagline: July 2023 - Present
-        subtitle: ''
-        text: >+
-          #### **Full Stack Developer**
-
-
-          As a Full Stack Developer, I enjoy creating seamless and efficient web
-          applications by combining front-end creativity with back-end logic.
-          From designing intuitive user interfaces to building robust APIs and
-          scalable databases, I’m passionate about delivering end-to-end
-          solutions. Let’s connect and collaborate on innovative projects!
-
-        image:
-          type: ImageBlock
-          url: /images/abstract-background.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Bangkit Academy
-        tagline: Oct 2024 - Present
-        subtitle: ''
-        text: |+
-          #### **Mobile Development Mentor**
-
-          Description Here
-
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            borderRadius: x-large
-            flexDirection: row
+    subtitle: ''
+    text: ''
     actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/abstract-background.svg
+      altText: Placeholder image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
     styles:
       self:
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-40
+          - pl-4
+          - pb-40
+          - pr-4
+        alignItems: center
+        flexDirection: row-reverse
         justifyContent: center
+      text:
+        textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Data Engineer
+      color: text-dark
+    subtitle: PT Pupuk Indonesia (Persero)
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Logo-Pupuk-Indonesia-Dok.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Jakarta | September 2024 - Present
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Lead Programmer (Fullstack)
+      color: text-dark
+    subtitle: PT Ghraha Trimitra Selaras
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Bogor | Januari 2024 - Present
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Mobile Dev Mentor
+      color: text-dark
+    subtitle: Bangkit Academy | Yayasan Dicoding Indonesia
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/logo-bangkit-2022.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: BANDUNG | October 2024 - December 2024
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Data Engineer (Internship)
+      color: text-dark
+    subtitle: PT Pupuk Indonesia (Persero)
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Logo-Pupuk-Indonesia-Dok.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Jakarta | September 2023 - December 2024
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Backend Developer
+      color: text-dark
+    subtitle: PT Ghraha Trimitra Selaras
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Bogor | June 2023 - December 2024
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
 slug: experiences
-isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
-  addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  metaTitle: Careers - Demo site
+  metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
