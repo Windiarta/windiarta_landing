@@ -2,7 +2,7 @@
 title: Windiarta | Blog
 slug: /blog
 numOfPostsPerPage: 1
-enableSearch: false
+enableSearch: true
 topSections:
   - type: FeaturedItemsSection
     title:
