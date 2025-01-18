@@ -197,7 +197,7 @@ sections:
         type: ImageBlock
         url: /images/Snowflake_Logo.svg.png
       - url: /images/react.png
-        altText: Telus logo
+        altText: React
         type: ImageBlock
       - url: /images/laravel2.png
         altText: Contentful logo
