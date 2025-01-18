@@ -189,6 +189,7 @@ sections:
     images:
       - altText: React logo
         type: ImageBlock
+        url: /images/flutterflow.png
       - url: /images/Resized_Node.png
         altText: NodeJS logo
         type: ImageBlock
