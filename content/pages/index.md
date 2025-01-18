@@ -191,7 +191,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/nodejs_logo.png
-        altText: Wellster logo
+        altText: NodeJS logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
