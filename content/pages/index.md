@@ -224,7 +224,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/Google_Gemini_logo.svg.png
-        altText: Image alt text placeholder
+        altText: Gemini
         elementId: ''
         styles:
           self:
